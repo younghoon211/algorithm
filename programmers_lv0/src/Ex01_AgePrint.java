@@ -1,4 +1,5 @@
-class Ex1_AgePrint {
+// 나이 출력
+class Ex01_AgePrint {
     public int solution(int age) {
         int answer = 0;
         if (age > 0 && age <= 120) {

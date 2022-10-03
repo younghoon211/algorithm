@@ -1,4 +1,5 @@
-class Ex2_ArrAverage {
+// 배열의 평균값
+class Ex02_ArrAverage {
     public double solution(int[] numbers) {
         double answer = 0;
         double sum = 0;
