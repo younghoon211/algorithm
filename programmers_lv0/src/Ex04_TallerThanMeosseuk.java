@@ -1,7 +1,7 @@
-// 머쓱이보다 키 큰 사람
 import java.util.ArrayList;
 import java.util.Arrays;
 
+// 머쓱이보다 키 큰 사람
 class Ex04_TallerThanMeosseuk {
 
     // ArrayList 이용
