@@ -1,3 +1,5 @@
+package programmers_lv0;
+
 import java.util.Arrays;
 
 // 배열 원소의 길이
@@ -11,5 +13,4 @@ public class Ex07_ArrangeElementLength {
     public int[] solution2(String[] strlist) {
         return Arrays.stream(strlist).mapToInt(String::length).toArray();
     }
-
 }

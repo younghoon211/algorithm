@@ -1,3 +1,5 @@
+package programmers_lv0;
+
 // 배열의 평균값
 class Ex02_ArrAverage {
     public double solution(int[] numbers) {

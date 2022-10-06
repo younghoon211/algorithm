@@ -1,3 +1,5 @@
+package programmers_lv0;
+
 import java.util.Arrays;
 
 // 배열 두배 만들기

@@ -1,3 +1,5 @@
+package programmers_lv0;
+
 // 나이 출력
 class Ex01_AgePrint {
     public int solution(int age) {

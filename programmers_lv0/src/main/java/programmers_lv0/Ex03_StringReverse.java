@@ -1,3 +1,5 @@
+package programmers_lv0;
+
 // StringBuffer / StringBuilder : 가변 , String : 불변
 // StringBuffer 클래스 : String을 다루는 클래스
 // 생성자의 파라미터로 문자열을 입력 받을 수 있음
@@ -17,12 +19,12 @@ class Ex03_StringReverse {
     }
 
     //StringBuilder
-    public String solution3(String my_string) {
+    public String solution2(String my_string) {
         return new StringBuilder(my_string).reverse().toString();
     }
 
     // 반복문, charAt
-    public String solution2(String my_string) {
+    public String solution3(String my_string) {
         String answer = "";
 
         for (int i = my_string.length() - 1; i >= 0; i--) {
