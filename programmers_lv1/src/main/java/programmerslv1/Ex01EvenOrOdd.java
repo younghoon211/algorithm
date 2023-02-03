@@ -1,6 +1,6 @@
-package programmers_lv1;
+package programmerslv1;
 
-public class Ex01_EvenOrOdd {
+public class Ex01EvenOrOdd {
     public String solution(int num) {
         if (num % 2 == 0 || num == 0) return "Even";
         else return "Odd";
